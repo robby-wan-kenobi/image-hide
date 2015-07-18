@@ -5,4 +5,4 @@ In order to hide unwanted images from being visible, I created this extension. A
 
 There's no icon in the top right corner, but you can right click on any image you don't want shown and there's an option to hide the image using "Image Hide". It's not a fix-all for unwanted images, but it's a step in the right direction.
 
-To add this to Chrome, you need to go to [chrome://extensions/](chrome://extensions/) and enable "Developer mode". Then click and "Load unpacked extension..." and select the root directory for this project.
+To add this to Chrome, you need to go to [chrome://extensions/](chrome://extensions/) and enable "Developer mode". Then click "Load unpacked extension..." and select the root directory for this project.
